@@ -1,6 +1,5 @@
 
 # Voice-Controlled-Lighting-System-Project
-# Project Progress Report: Voice-Controlled Lighting System
 
 Group members
 - 21/06731 Justus Ekaran
@@ -13,7 +12,6 @@ Group members
 
 
 
-# Project Progress Report: Voice-Controlled Lighting System
 # Introduction
 The Voice-Controlled Lighting System project aims to revolutionize home automation by enabling users to operate lighting fixtures through spoken commands. By integrating Arduino microcontrollers, a voice recognition module, and sensor technology, this system promises a hands-free and convenient method for controlling lights. As of the current progress report, the hardware setup has been successfully acquired and implemented, marking a significant milestone in the project's development. The focus now shifts towards the critical phase of software development, where the firmware and algorithms will be crafted to bring the system to life. This report details the progress made so far, outlines the upcoming software development phase, and highlights the project's objectives moving forward.
 # Objectives
